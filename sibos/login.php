@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="assets/images/BOS.jpg" type="image/x-icon">
 
-    <title>:: Login ::</title>
+    <title>:: Login BOS ::</title>
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/signin.css" rel="stylesheet">
@@ -24,7 +24,7 @@
 
         <form class="form-signin" id="loginForm" method="POST" action="core/login_validasi.php">
             <h2 class="form-signin-heading">
-                    Login Sistem BOS
+                    Login BOS
             </h2>
                 <label for="username" class="sr-only">Username</label>
                 <input type="text" id="username" name="username" class="form-control" placeholder="Username" required autofocus>
