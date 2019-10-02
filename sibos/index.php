@@ -17,6 +17,8 @@ if($_GET['aksi']=='keluar'){
     header('location:login.php');
 }
 ?>
+// nitip komentar
+// code di bawah ini adalah HTML
 <!DOCTYPE html>
 <html lang="id">
   <head>
